@@ -59,7 +59,6 @@ Roadmap for the next Kaivaz development passes.
 ## 5. GitHub Organization
 
 - Keep one project per directory when projects are related.
-- Use clear project names instead of `Pasted text` or `Pasted code`.
 - Add a README to every substantial project.
 - Add `LICENSE` only when the intended licensing is decided.
 - Keep experimental prototypes clearly labeled.
